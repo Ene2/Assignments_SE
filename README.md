@@ -21,11 +21,17 @@ The "Smart Greenhouse" is a micro climate environment which regulates itself in 
 
 ## Sensors required
 
-* Temperature sensor:
-* Humidity sensor:
-* CO2 level sensor: 
-* Soil moisture sensor:
-* Light sensor:
+* **Temperature sensor:**  
+Property observed:
+Indicative hardware products:
+Unit of measurement:
+Resolution:
+Sampling frequency:
+Measurement Error:
+* **Humidity sensor:**  
+* **CO2 level sensor:**  
+* **Soil moisture sensor:**  
+* **Light sensor:**  
 
 ## Data structure and data aggregation tasks
 
