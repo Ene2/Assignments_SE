@@ -21,7 +21,7 @@ While worker Bill goes to the coffee machine to drink a coffee with his colleagu
 **2. Scenario:**  
 The workers in the production are sometimes changing the workplaces. Every operator works with different light conditions. While worker Bill has holidays a colleague of him works at his place. The gps sensor realizes his absence and the presence of another colleague and adapts the light conditions to the new worker.   
 **3. Scenario:**  
-
+During summer it sometimes happens that the temperature in the production area raises. The temperature sensor at the individual workplaces recognize this and send a message to the operator to do more breaks.  
 
 ## Sensors required
 
