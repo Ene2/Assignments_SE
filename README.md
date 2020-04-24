@@ -30,6 +30,15 @@ Resolution: 0.125 °C
 Sampling frequency: every 10 seconds    
 Measurement Error: -  
 
+### **Location sensor:**  
+
+Property observed: -  
+Indicative hardware products: https://buy.garmin.com/de-DE/DE/p/643260  
+Unit of measurement: geographic coordinate system  
+Resolution: a few meters  
+Sampling frequency: every 5 seconds  
+Measurement Error: - 
+
 ### **Noise sensor:**  
 
 Property observed: -  
