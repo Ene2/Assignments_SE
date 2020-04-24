@@ -15,9 +15,13 @@ Smart Workplace 4.0
 The "Smart Workplace 4.0" is a workplace for operators in the assembly or production environment which is equipped with different sensors to ensure that the worker's environment and the worker's heart rate is always in good condition. The idea behind is that all the conditions such as O2 level, temperature, light conditions, etc. are monitored and checked continuously.
 
 ## List of Use-case scenarios
-1. Scenario 1
-2. Scenario 2
-3. Scenario 3
+
+**1. Scenario:**  
+While worker Bill goes to the coffee machine to drink a coffee with his colleagues, the service robot gets a message that the location of the gps sensor (which is integrated in the watch of worker Bill) is not near his workplace anymore. The service robot comes to replenish the workpieces.  
+**2. Scenario:**  
+The workers in the production are sometimes changing the workplaces. Every operator works with different light conditions. While worker Bill has holidays a colleague of him works at his place. The gps sensor realizes his absence and the presence of another colleague and adapts the light conditions to the new worker.   
+**3. Scenario:**  
+
 
 ## Sensors required
 
